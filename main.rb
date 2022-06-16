@@ -51,3 +51,7 @@ else
   puts "you explored #{room_count} rooms"
   puts "before you horribly died, and lost all your treasures"
 end
+
+def waow
+  puts "something"
+end
